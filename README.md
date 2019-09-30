@@ -6,9 +6,9 @@ This repo has the area of a rectangle
 
 ## Links
 
-- [Demo](https://mohanpratapa.github.io/GPA/)
+- [Demo](https://mohanpratapa.github.io/Area/)
 
-- [Source](https://github.com/mohanpratapa/GPA)
+- [Source](https://github.com/mohanpratapa/Area)
 
 ## Requirements
 
