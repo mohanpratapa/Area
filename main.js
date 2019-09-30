@@ -16,7 +16,7 @@ const validate = async (event) => {
 const updateWithAdd = async (event) => {
   document.querySelector('#result').innerHTML = ''
   if (document.querySelector('#firstNumber').checkValidity() && document.querySelector('#secondNumber').checkValidity()
-  && document.querySelector('#thirdNumber').checkValidity()) 
+  )
   
   {
     const regex = /[^a-zA-Z_]/g
